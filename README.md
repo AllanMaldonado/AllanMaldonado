@@ -1,5 +1,12 @@
-- 📕Estudando: Javascript, Java e C
-<img align="center" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606">
+<img  align="center" src="https://media.licdn.com/dms/image/D4D16AQF-ELKvH63RIA/profile-displaybackgroundimage-shrink_350_1400/0/1698065565408?e=1719446400&v=beta&t=xPBnVIxVobmb7dCIx8tZmjfItI6RoBEdKjwEkz0M_E8">
+
+##
+
+### Salve👋🏻, sou o Allan!
+- 🏛️Cursando Sistemas de Informação na UNOESTE 
+- 📕Atualmente estudando: Javascript, Java, C e SQL
+- 👾Interesses: Front-end, Mobile, Automações e Ciência de Dados
+
 ##
 <div>
    
