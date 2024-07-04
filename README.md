@@ -1,7 +1,4 @@
 # Allan Maldonado
-<img  align="center" src="https://media.licdn.com/dms/image/D4D16AQF-ELKvH63RIA/profile-displaybackgroundimage-shrink_350_1400/0/1698065565408?e=1719446400&v=beta&t=xPBnVIxVobmb7dCIx8tZmjfItI6RoBEdKjwEkz0M_E8">
-
-
 ## GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanMaldonado&theme=transparent&bg_color=000&border_color=814942&show_icons=true&icon_color=814942&title_color=903f39&text_color=fff&hide=issues)
