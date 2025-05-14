@@ -12,8 +12,5 @@
 
 </div>
 
-## Links
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/allanmaldonado/)[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=E1306C)](https://www.instagram.com/allanmalldonado/)[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/AllanMaldonado)
 
 <hr>
