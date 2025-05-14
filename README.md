@@ -1,7 +1,4 @@
 # Allan Maldonado
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AllanMaldonado&theme=transparent&bg_color=000&border_color=814942&show_icons=true&icon_color=814942&title_color=903f39&text_color=fff&hide=issues)
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AllanMaldonado&layout=compact&bg_color=000&border_color=814942&title_color=814942&text_color=FFF)
 
 ## Skills
