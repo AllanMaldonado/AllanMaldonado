@@ -6,7 +6,7 @@
       style="display: inline-block;" 
     />
    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMaldonado&layout=donut&show_icons=true&hide_border=false&border_radius=20&title_color=000&bg_color=361210&border_color=000&text_color=000&custom_title=RANK&text_bold=true" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMaldonado&layout=donut&hide_border=true&border_radius=20&title_color=000&bg_color=361210&border_color=000&text_color=000" 
       alt="Top Langs" 
       style="display: inline-block;" 
     />
