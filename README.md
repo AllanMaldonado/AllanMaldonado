@@ -44,7 +44,7 @@
 
 <div align="center">
   <a href="https://allanMaldonado.vercel.app" target="_blank"><img 
-    src="https://img.shields.io/badge/Portfólio-361210?style=for-the-badge&color=361210&logo=webcomponents&logoColor=D4AF37" 
+    src="https://img.shields.io/badge/Portfolio-361210?style=for-the-badge&color=361210&logo=webcomponents&logoColor=D4AF37" 
     style="display: inline-block; vertical-align: middle;" /></a><a 
     href="https://instagram.com/allanmalldonado" target="_blank"><img 
     src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
