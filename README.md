@@ -1,16 +1,62 @@
-## Hi there 👋
+<h1 align="center">👋🏻 Hi, I'm Allan Maldonado</h1>
 
-<!--
-**AllanMaldonado/AllanMaldonado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div align="center" style="display:flex; gap:0.7rem;">
+  <a href="https://github.com/AllanMaldonado/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=AllanMaldonado&show_icons=true&hide_border=false&border_radius=20&title_color=000&bg_color=361210&border_color=000&icon_color=000&text_color=000&rank_icon=github&custom_title=STATS&line_height=29" 
+      alt="AllanMaldonado's GitHub stats" 
+    />
+  </a>
 
-Here are some ideas to get you started:
+  <a href="https://github.com/AllanMaldonado/github-readme-stats">
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMaldonado&layout=donut&show_icons=true&hide_border=false&border_radius=20&title_color=000&bg_color=361210&border_color=000&text_color=000&custom_title=RANK&text_bold=true" 
+      alt="Top Langs" 
+    />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<h2 align="center">SKILLS</h2>
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.5rem;">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>
+
+</div>
+
+<br>
+
+<h2 align="center">CONTACT ME</h2>
+<br>
+
+ <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.5rem;">
+
+   <a href="https://allanMaldonado.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-361210?style=for-the-badge&color=361210&logo=webcomponents&logoColor=D4AF37" />
+  </a>
+
+   <a href="https://instagram.com/allanmalldonado" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+
+   <a href="https://www.linkedin.com/in/allanmaldonado" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+</div>
+
+<br>
