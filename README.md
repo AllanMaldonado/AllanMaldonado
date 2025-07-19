@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allan Maldonado</h1>
 
 <div align="center">
-          <p>🔭 I’m currently working on <strong>LevelOn Project</strong></p>
-          <p>🌱 I’m currently learning <strong>Fastify, NestJS, ReactJS and Docker</strong></p>
-          <p>🤝 I'm collaborating on <strong>Carim System</strong></p>
+  <p>🔭 Working on the <strong>LevelOn Project</strong></p>
+  <p>🌱 Learning <strong>Fastify, NestJS, ReactJS, and Docker</strong></p>
+  <p>🤝 Collaborating on the <strong>Carim System</strong></p>
 </div>
+
 <h2 align="center">Languages and Tools:</h2>
 
 <p align="center"> 
