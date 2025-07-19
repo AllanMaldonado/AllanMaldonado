@@ -1,4 +1,16 @@
-<h1 align="center">👋🏻 Hi, I'm Allan</h1>
+<h1 align="center">Hi 👋, I'm Allan Maldonado</h1>
+
+<div align="center">
+          <p>🔭 I’m currently working on <strong>LevelOn Project</strong></p>
+          <p>🌱 I’m currently learning <strong>Fastify, NestJS, ReactJS and Docker</strong></p>
+          <p>🤝 I'm collaborating on <strong>Carim System</strong></p>
+</div>
+<h2 align="center">Languages and Tools:</h2>
+
+<p align="center"> 
+     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+
 <div align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
      <img 
       src="https://github-readme-stats.vercel.app/api?username=AllanMaldonado&show_icons=true&hide_border=false&border_radius=20&title_color=000&bg_color=361210&border_color=000&icon_color=000&text_color=000&rank_icon=github&custom_title=STATS&line_height=29" 
@@ -11,47 +23,3 @@
       style="display: inline-block;" 
     />
 </div>
-
-
-<br>
-
-<h2 align="center">SKILLS</h2>
-
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 0.3rem;">
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="50" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/> 
-
-</div>
-
-
-<br>
-
-<h2 align="center">CONTACT ME</h2>
-
-<div align="center">
-  <a href="https://allanMaldonado.vercel.app" target="_blank"><img 
-    src="https://img.shields.io/badge/Portfolio-361210?style=for-the-badge&color=361210&logo=webcomponents&logoColor=D4AF37" 
-    style="display: inline-block; vertical-align: middle;" /></a><a 
-    href="https://instagram.com/allanmalldonado" target="_blank"><img 
-    src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
-    style="display: inline-block; vertical-align: middle;" /></a><a 
-    href="https://www.linkedin.com/in/allanmaldonado" target="_blank"><img 
-    src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-    style="display: inline-block; vertical-align: middle;" /></a>
-</div>
-
-</div> 
