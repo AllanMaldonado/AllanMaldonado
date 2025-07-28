@@ -2,7 +2,6 @@
 
 <div align="center">
   <p>🔭 Working on the <strong>LevelOn Project</strong></p>
-  <p>🌱 Learning <strong>NestJS, ReactJS, and Docker</strong></p>
   <p>🤝 Collaborating on the <strong>Carim System</strong></p>
 </div>
 
