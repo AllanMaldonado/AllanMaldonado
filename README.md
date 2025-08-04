@@ -1,5 +1,3 @@
-
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,60:111111,100:2222222"/>
 
 <h2>
