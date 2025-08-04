@@ -1,25 +1,50 @@
-<h1 align="center">Hi 👋, I'm Allan Maldonado</h1>
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,60:111111,100:2222222"/>
+
+<h2>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=40&pause=1100&color=2474F7&center=true&vCenter=true&width=1000&height=40&lines=Welcome!;Full+Stack+Developer" alt="Typing SVG" /></a>
+</h2>
+
+
+<p  align="center">Information Systems student with a focus on software development, from architecture to implementation and automation. Passionate about creating efficient solutions and constantly improving my skills through challenging projects that push me to grow technically and sharpen my systems thinking. Currently looking for opportunities to put this knowledge into practice and continue learning.</p>
+
+<br>
+
+
+
+<h2 align="center">💻 TECH STACK</h2>
+
+ <div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+</div>
+<!--     <img width="12" />
+<img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  /> -->
+  
+###
 
 <div align="center">
-  <p>🔭 Working on the <strong>LevelOn Project</strong></p>
-  <p>🤝 Collaborating on the <strong>Carim System</strong></p>
+  <img src="https://media.tenor.com/bhewUhwCTYYAAAAj/tux-linux-tux.gif" alt="Tux Linux" width="130" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanMaldonado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
 </div>
 
-<h2 align="center">Languages and Tools:</h2>
 
-<p align="center"> 
-     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,60:111111,100:2222222&section=footer"/>
 
-
-<div align="center" style="display: flex; justify-content: center; gap: 0.5rem;">
-     <img 
-      src="https://github-readme-stats.vercel.app/api?username=AllanMaldonado&show_icons=true&hide_border=false&border_radius=20&title_color=000&bg_color=361210&border_color=000&icon_color=000&text_color=000&rank_icon=github&custom_title=STATS&line_height=29" 
-      alt="AllanMaldonado's GitHub stats" 
-      style="display: inline-block;" 
-    />
-   <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanMaldonado&layout=donut&hide_border=true&border_radius=20&title_color=000&bg_color=361210&border_color=000&text_color=000" 
-      alt="Top Langs" 
-      style="display: inline-block;" 
-    />
-</div>
