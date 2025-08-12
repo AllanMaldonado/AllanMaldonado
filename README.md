@@ -5,7 +5,7 @@
 </h2>
 
 
-<p  align="center">Information Systems student with a focus on software development, from architecture to implementation and automation. Passionate about creating efficient solutions and constantly improving my skills through challenging projects that push me to grow technically and sharpen my systems thinking. Currently looking for opportunities to put this knowledge into practice and continue learning.</p>
+<p  align="center"></p>
 
 <br>
 <p align="center">
