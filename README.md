@@ -26,12 +26,12 @@
  
 </p>
 
-<img 
+<!-- <img 
   alt="medieval-gif" 
-  src="bg.gif" 
+  src="https://raw.githubusercontent.com/AllanMaldonado/AllanMaldonado/main/bg.gif" 
   width="100%" 
   style="height: 250px; object-fit: cover; object-position: center;" 
-/>
+/> -->
 
 
 <br>
