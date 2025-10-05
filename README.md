@@ -25,6 +25,9 @@
          style="height: 27px;" /></a>
  
 </p>
+
+ <img alt="medieval-gif" src="background.gif" width="100%" />
+
 <br>
 
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
@@ -84,6 +87,7 @@
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000000,60:111111,100:2222222&section=footer"/>
+
 
 
 
