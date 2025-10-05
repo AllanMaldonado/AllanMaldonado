@@ -26,7 +26,13 @@
  
 </p>
 
- <img alt="medieval-gif" src="background.gif" width="100%" />
+<img 
+  alt="medieval-gif" 
+  src="bg.gif" 
+  width="100%" 
+  style="height: 250px; object-fit: cover; object-position: center;" 
+/>
+
 
 <br>
 
