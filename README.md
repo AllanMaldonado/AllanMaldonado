@@ -13,18 +13,15 @@
 <br>
 
 <p align="center">
+   <a href="https://allanmaldonado.vercel.app">
+    <img alt="Portfolio" title="Visit my portfolio"
+         src="https://custom-icon-badges.demolab.com/badge/-Portfolio-282A36?style=for-the-badge&logo=web&logoColor=white&labelColor=000000" />
+  </a> 
    <a href="https://www.linkedin.com/in/allanmaldonado">
     <img alt="LinkedIn" title="Connect with me on LinkedIn"
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://allanmaldonado.vercel.app">
-    <img alt="Portfolio" title="Visit my portfolio"
-         src="https://custom-icon-badges.demolab.com/badge/-Portfolio-282A36?style=for-the-badge&logo=web&logoColor=white&labelColor=000000" />
-  </a>
-  <a href="https://github.com/AllanMaldonado?tab=repositories">
-    <img alt="Repositories" title="See my repositories on GitHub"
-         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=000000" />
-  </a>
+ 
   <a href="https://github.com/AllanMaldonado?tab=stars">
     <img alt="Starred Repositories" title="Repositories I've Starred"
          src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=000000" />
