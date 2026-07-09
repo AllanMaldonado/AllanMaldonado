@@ -30,14 +30,6 @@
 
 <br>
 
-<div align="center">
-  <img alt="coding-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1" width="80px" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AllanMaldonado&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
-</div>
-
-<br>
-
 ---
 
 <h2 align="center">🎨 Front-End</h2>
