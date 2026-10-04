@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="720" height="400" viewBox="0 0 720 400" role="img" aria-labelledby="title desc">
+  <title id="title">Allan Maldonado — Desenvolvedor Full Stack</title>
+  <desc id="desc">Perfil em estilo terminal: estagiário na AIDDA Platforms, estudante de Sistemas de Informação em Presidente Prudente, Brasil. Foco em backend, APIs, integrações e IA aplicada.</desc>
+  <style>
+    .bg { fill: #f6f8fa; }
+    .border { fill: none; stroke: #d0d7de; }
+    text { fill: #24292f; font-family: Consolas, 'Liberation Mono', monospace; font-size: 16px; white-space: pre; }
+    .muted { fill: #57606a; }
+    .accent { fill: #087f23; }
+    .key { fill: #953800; }
+    .green { fill: #087f23; }
+    .small { font-size: 14px; }
+  </style>
+  <rect class="bg" width="720" height="400" rx="10"/>
+  <rect class="border" x="0.5" y="0.5" width="719" height="399" rx="10"/>
+  <text x="30" y="36" class="small"><tspan class="accent">AllanMaldonado</tspan><tspan class="muted"> / README.md</tspan></text>
+  <path class="border" d="M30 54H690"/>
+  <text x="30" y="97"><tspan class="accent">allan@github</tspan><tspan class="muted"> ~ $ whoami</tspan></text>
+  <text x="30" y="127"><tspan class="key">Nome       </tspan><tspan>Allan Maldonado</tspan></text>
+  <text x="30" y="153"><tspan class="key">Atuação    </tspan><tspan>Backend, APIs e integrações</tspan></text>
+  <text x="30" y="179"><tspan class="key">Trabalho   </tspan><tspan>Estagiário @ AIDDA Platforms</tspan></text>
+  <text x="30" y="205"><tspan class="key">Formação   </tspan><tspan>Sistemas de Informação · UNOESTE</tspan></text>
+  <text x="30" y="231"><tspan class="key">Local      </tspan><tspan>Presidente Prudente, BR</tspan></text>
+  <text class="muted small" x="30" y="269">-- foco -----------------------------------------------</text>
+  <text x="30" y="295"><tspan class="green">› </tspan><tspan>Backend, APIs e produtos web</tspan></text>
+  <text x="30" y="321"><tspan class="green">› </tspan><tspan>Integrações e IA aplicada a sistemas</tspan></text>
+  <path class="border" d="M30 347H690"/>
+  <text class="small accent" x="496" y="376">allanmaldonado.dev</text>
+</svg>
